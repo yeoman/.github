@@ -1,0 +1,52 @@
+name: "OpenSSF Scoring"
+on: 
+  schedule:
+    # Run on the first day of every month
+    - cron: "0 0 1 * *"  
+  # Manual trigger 
+  workflow_dispatch:
+
+# Permissions required to run this workflow (create issue and commit/push changes)
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  packages: none
+
+jobs:
+  security-scoring:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142 # v2.7.0
+        with:
+          egress-policy: audit # TODO: change to 'egress-policy: block' after couple of runs
+
+      - uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633 # v3.3.0
+      - name: OpenSSF Scorecard Monitor
+        uses: ossf/scorecard-monitor@a3a9c4cfa0684480ec5f86fa178fc22c4394b69e # v2.0.0-beta8
+        with:
+          scope: tools/ossf_scorecard/scope.json
+          database: tools/ossf_scorecard/database.json
+          report: tools/ossf_scorecard/report.md
+          auto-commit: false
+          auto-push: false
+          generate-issue: true
+          report-tags-enabled: true
+          issue-title: "OpenSSF Scorecard Report Updated!"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          max-request-in-parallel: 10
+          discovery-enabled: true
+          discovery-orgs: 'yeoman'
+      - name: Create Pull Request
+        uses: gr2m/create-or-update-pull-request-action@77596e3166f328b24613f7082ab30bf2d93079d5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            commit-message: 'docs: OpenSSF Scorecard Report Updated'
+            title: OpenSSF Scorecard Report Updated
+            body: 'OpenSSF Scorecard Report Updated. cc: @ulisesGascon'
+            assignees: ${{ github.actor }}
+            labels: security
+            branch: openssf-scorecard-report-updated
+            update-pull-request-title-and-body: true

@@ -1,0 +1,286 @@
+{
+  "github.com": {
+    "yeoman": {
+      "yeoman": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-01-06",
+          "commit": "230974531caf87ccfe518f2fe673600742f2f753"
+        }
+      },
+      "generator": {
+        "previous": [],
+        "current": {
+          "score": 5.8,
+          "date": "2025-01-06",
+          "commit": "5dd84df00dbf2a67fd068692808237372df56649"
+        }
+      },
+      "generator-gruntfile": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-01-06",
+          "commit": "5115347bc928abb3fc9802a11faab4e09e5930e6"
+        }
+      },
+      "generator-karma": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-01-06",
+          "commit": "d4681549e3ad3c454be88dc5e80d288e7452e1d3"
+        }
+      },
+      "yeoman.io": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "e8cec16903a9de7c372b7b372d5a7cbcb16d81be"
+        }
+      },
+      "generator-angular": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "019c99702fd8b87043b12012da0c6bf59e5b4771"
+        }
+      },
+      "generator-backbone": {
+        "previous": [],
+        "current": {
+          "score": 3.1,
+          "date": "2025-01-06",
+          "commit": "bc001b6d5f282c9f5808b815c9d1483a2963fd3c"
+        }
+      },
+      "generator-jasmine": {
+        "previous": [],
+        "current": {
+          "score": 1.9,
+          "date": "2025-01-06",
+          "commit": "88dec7cf4ce86a7877bc17cf67070694ebd875a2"
+        }
+      },
+      "generator-mocha": {
+        "previous": [],
+        "current": {
+          "score": 1.9,
+          "date": "2025-01-06",
+          "commit": "21da7926613dba0d404135798cfb8d8b4161acb1"
+        }
+      },
+      "generator-chromeapp": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "4dbb0b573d2b56fdc6530c0b563257001e9bb9f4"
+        }
+      },
+      "generator-jquery": {
+        "previous": [],
+        "current": {
+          "score": 3.3,
+          "date": "2025-01-06",
+          "commit": "5f2a80bb1307981e0d0bcfa63599f47464bd083d"
+        }
+      },
+      "grunt-bower-requirejs": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "8b9466eca49d55cfa0c2dbfd63e974dfcd5d82a8"
+        }
+      },
+      "generator-generator": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-01-06",
+          "commit": "89b5511152fd4a6013facfd221d8b8ccdafa8ccf"
+        }
+      },
+      "generator-gruntplugin": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-01-06",
+          "commit": "766b69b61ee526dd9beb7859fd49fac6e1c76d2f"
+        }
+      },
+      "bower-requirejs": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-01-06",
+          "commit": "5920f5c2f4feffc8f3f13eef6199f90a8045f5f2"
+        }
+      },
+      "yo": {
+        "previous": [],
+        "current": {
+          "score": 3.8,
+          "date": "2025-01-06",
+          "commit": "5930d37452cef7d9dc9a66296d7ca75f55a8cd07"
+        }
+      },
+      "generator-bootstrap": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "20659a65fd2ca2da7c02678a0bd490528c819df0"
+        }
+      },
+      "generator-commonjs": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-01-06",
+          "commit": "162d7c92da425193d6166ad7d08c20c58971b1b6"
+        }
+      },
+      "grunt-filerev": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-01-06",
+          "commit": "c7feb0c09c94c0729460f3bfe74c6b25ff09d20d"
+        }
+      },
+      "grunt-usemin": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-01-06",
+          "commit": "834cf4b5c8bd5c95637bdff7b82ed32e0494e243"
+        }
+      },
+      "yosay": {
+        "previous": [],
+        "current": {
+          "score": 4.2,
+          "date": "2025-01-06",
+          "commit": "5731dbef505820e1493a90ffd94b846bce0b6610"
+        }
+      },
+      "environment": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-01-06",
+          "commit": "659816e46a9699907d8a3cf2e0d1963abe3210b0"
+        }
+      },
+      "generator-dummytest": {
+        "previous": [],
+        "current": {
+          "score": 3,
+          "date": "2025-01-06",
+          "commit": "8798ed3152952c99a63cc7adf9716e9f9da35d68"
+        }
+      },
+      "generator-mobile": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "96471740d4b02e0a067801ec1356fc9bf0a6ee82"
+        }
+      },
+      "generator-webapp": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-01-06",
+          "commit": "afac1ce6ccdbe3cd2f72b1a12700b79152c9c2c3"
+        }
+      },
+      "doctor": {
+        "previous": [],
+        "current": {
+          "score": 3.6,
+          "date": "2025-01-06",
+          "commit": "df65616a23f9c984f2cfbf44fc48800b85dc0fe2"
+        }
+      },
+      "generator-polymer": {
+        "previous": [],
+        "current": {
+          "score": 2.9,
+          "date": "2025-01-06",
+          "commit": "e6ff476e8dd7b7d8a17e7c1fc2844fd5cbf0a569"
+        }
+      },
+      "generator-dummy": {
+        "previous": [],
+        "current": {
+          "score": 2.7,
+          "date": "2025-01-06",
+          "commit": "e5671f5104f86cb6d8abca448a1246340e81f7ae"
+        }
+      },
+      "generator-node": {
+        "previous": [],
+        "current": {
+          "score": 2,
+          "date": "2025-01-06",
+          "commit": "25d1ca4ea2122ce08b88398848e6df41f54cbe1a"
+        }
+      },
+      "yeoman-test": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-01-06",
+          "commit": "1fc12ed3bd32a776e0d7b7ccb16e83cc2d152962"
+        }
+      },
+      "yeoman-welcome": {
+        "previous": [],
+        "current": {
+          "score": 1.9,
+          "date": "2025-01-06",
+          "commit": "1046de8677536d5f6b2c2b186b6e3a788f59574d"
+        }
+      },
+      "yeoman-remote": {
+        "previous": [],
+        "current": {
+          "score": 3.2,
+          "date": "2025-01-06",
+          "commit": "2ee4b4369e823522b7ce3407e403c0caabefeeff"
+        }
+      },
+      "yeoman-character": {
+        "previous": [],
+        "current": {
+          "score": 3.9,
+          "date": "2025-01-06",
+          "commit": "ed63336bbd75007e02a45734ce6655722bdb116b"
+        }
+      },
+      "html-wiring": {
+        "previous": [],
+        "current": {
+          "score": 2.6,
+          "date": "2025-01-06",
+          "commit": "1cd9c95628e7451d8ba665bb2aed7f2b04c2cc1a"
+        }
+      },
+      "yeoman-assert": {
+        "previous": [],
+        "current": {
+          "score": 3.4,
+          "date": "2025-01-06",
+          "commit": "2457f60d82448a5ea40943fd7e36681a7987b0b2"
+        }
+      }
+    }
+  }
+}

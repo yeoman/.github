@@ -122,11 +122,17 @@
         }
       },
       "yo": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 3.8,
+            "date": "2025-01-06",
+            "commit": "5930d37452cef7d9dc9a66296d7ca75f55a8cd07"
+          }
+        ],
         "current": {
-          "score": 3.8,
-          "date": "2025-01-06",
-          "commit": "5930d37452cef7d9dc9a66296d7ca75f55a8cd07"
+          "score": 6.1,
+          "date": "2025-01-17T22:30:28Z",
+          "commit": "d3ce22a47c705850589d790393fc346ad30cb206"
         }
       },
       "generator-bootstrap": {

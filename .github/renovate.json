@@ -1,0 +1,20 @@
+{
+    "extends": ["config:base", ":pinOnlyDevDependencies"],
+    "minimumReleaseAge": "7 days",
+    "automerge": false,
+    "automergeType": "pr",
+    "schedule": ["before 5am on Monday"],
+    "packageRules": [
+      {
+        "matchUpdateTypes": ["minor", "patch"],
+        "automerge": false
+      },
+      {
+        "matchUpdateTypes": ["major"],
+        "automerge": false
+      }
+    ],
+    "prHourlyLimit": 5,
+    "prConcurrentLimit": 10
+  }
+  

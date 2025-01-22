@@ -3,7 +3,7 @@ Allo' allo'!
 Thanks for taking the time to submit a pull request ❤
 
 Please make sure you read and fulfill our pull request guidelines:
-https://github.com/yeoman/yeoman/blob/master/contributing.md
+https://github.com/yeoman/.github/blob/master/.github/contributing.md
 
 Additional useful information is placed on the Yeoman Website:
 http://yeoman.io/contributing/pull-request.html

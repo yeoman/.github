@@ -42,7 +42,7 @@ If a participant engages in any behaviour violating this code of conduct, the co
 
 ## Reporting violations of the Code of Conduct
 
-If you personally require help or you are witness to violations of the Code of Conduct, please immediately contact  [Any Core Team Member](https://github.com/yeoman/yeoman/#team).
+If you personally require help or you are witness to violations of the Code of Conduct, please immediately contact [Any Core Team Member](https://github.com/yeoman/yeoman/#team).
 
 ## Credits
 

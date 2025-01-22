@@ -8,7 +8,7 @@ Please ensure comments stay professional, constructive and about the code, not t
 
 [![xkcd](xkcd-1053.png)](http://xkcd.com/1053/)
 
-This Code of Conduct applies to all of the projects under the [Yeoman organization](https://github.com/yeoman) on GitHub and the Yeoman community at large (IRC, mailing lists, Google+, Twitter, etc.).
+This Code of Conduct applies to all of the projects under the [Yeoman organization](https://github.com/yeoman) on GitHub and the Yeoman community at large (Discord, mailing lists, social media, etc.).
 
 See the [contributing guidelines](http://yeoman.io/contributing/) and the [tutorial on getting started with Yeoman](http://yeoman.io/learning/) for technical details of contributing to Yeoman or its satellite projects.
 

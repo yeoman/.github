@@ -5,7 +5,7 @@ Please keep in mind, that GitHub issues are meant to be used for reporting bugs 
 request new features.
 
 Use Stack Overflow for support: http://stackoverflow.com/questions/tagged/yeoman
-Head over to one of our Gitter rooms (https://gitter.im/yeoman/home) and ask for help if you’re unsure if you ran into a bug or if you have any other question.
+Head over to our Discord (https://discord.gg/tKnYVm4k) and ask for help in its [`#help` channel](https://discord.com/channels/1326978160515879063/1327268999817334884) if you’re unsure if you ran into a bug or if you have any other question.
 
 You would like to report a bug?
 Use the search feature to ensure that the bug hasn't been reported before.

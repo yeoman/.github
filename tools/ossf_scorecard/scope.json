@@ -2,7 +2,6 @@
   "github.com": {
     "yeoman": {
       "included": [
-        "yeoman",
         "generator",
         "yeoman.io",
         "yo",
@@ -18,6 +17,7 @@
         "yeoman-api"
       ],
       "excluded": [
+        "yeoman",
         "html-wiring",
         "generator-angular",
         "grunt-usemin",

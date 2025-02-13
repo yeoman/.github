@@ -14,7 +14,8 @@
         "environment",
         "doctor",
         "yeoman-character",
-        "yeoman-welcome"
+        "yeoman-welcome",
+        "yeoman-api"
       ],
       "excluded": [
         "html-wiring",

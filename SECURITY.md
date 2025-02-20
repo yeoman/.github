@@ -27,14 +27,15 @@ We also support [Coordinated Vulnerability Disclosure (CVD)](https://en.wikipedi
 
 ### Important Reminder
 
-**Do not create a public issue to report a security vulnerability.** This is to protect both the project and its users from potential exploitation before the issue is resolved.
+🚨**Do not create a public issue to report a security vulnerability.** This is to protect both the project and its users from potential exploitation before the issue is resolved.
 
 ### Disclosure Timeline and Public Announcement
 
-- We aim to acknowledge receipt of your report within **2–5 working days**.  
-- We will keep you informed of our progress as we investigate and work on fixes.  
-- In general, we strive to fix or otherwise address confirmed vulnerabilities within **30 days**, though timelines may vary depending on severity and complexity. We will coordinate with you regarding public disclosure once a fix is available or mitigation is in place.  
-- Please **do not publicly disclose** details of the vulnerability until we have confirmed a fix or provided approval, to ensure the security of our users.
+- **Acknowledgment**: We will acknowledge receipt of your report within **2–5 working days**.
+- **Progress Updates**: We will keep you informed as we investigate and work on a fix.
+- **Resolution Time**: We aim to resolve confirmed vulnerabilities within **30 days**, but complex issues may take longer.
+- **Public Disclosure**: We coordinate with you on public disclosure only after a fix or mitigation is in place.
+- **Researcher Recognition**: With your permission, we acknowledge security researchers in the public advisory after the fix.
 
 ### Acknowledgements
 

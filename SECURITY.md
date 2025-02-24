@@ -74,7 +74,7 @@ Yeoman **trusts**:
 
 **Yeoman assesses vulnerabilities based on its threat model**. 
 
-If an issue arises due to insecure usage of untrusted components (e.g., an insecure third-party generator), it is generally the responsibility of the generator's maintainer. However, if Yeoman itself fails to properly mitigate risks when handling untrusted inputs, it may be considered a valid security issue.
+If an issue arises due to insecure usage of untrusted components (e.g., an insecure third-party generator), it is generally the responsibility of the untrusted component's maintainer. However, if Yeoman itself fails to properly mitigate risks when handling untrusted inputs, it may be considered a valid security issue.
 
 If a generator creates an insecure project by default, it is the responsibility of the generator author. However, if Yeoman itself facilitates or encourages insecure practices in its official generators, it will be treated as a security concern.
 

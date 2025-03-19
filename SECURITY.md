@@ -34,7 +34,7 @@ We also support [Coordinated Vulnerability Disclosure (CVD)](https://en.wikipedi
 
 ### Disclosure Timeline and Public Announcement
 
-- **Acknowledgment**: We will acknowledge receipt of your report within **2–5 working days**.
+- **Acknowledgment**: We will acknowledge receipt of your report within **5–10 working days**.
 - **Progress Updates**: We will keep you informed as we investigate and work on a fix.
 - **Resolution Time**: We aim to resolve confirmed vulnerabilities within **30 days**, but complex issues may take longer.
 - **Public Disclosure**: We coordinate with you on public disclosure only after a fix or mitigation is in place.

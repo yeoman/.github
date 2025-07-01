@@ -36,12 +36,17 @@
             "score": 6.6,
             "date": "2025-04-29T07:26:53Z",
             "commit": "ccec77b006ff52b9052815d8d273fe8c3491f5ba"
+          },
+          {
+            "score": 7.1,
+            "date": "2025-05-27T18:25:05Z",
+            "commit": "f7272ad9265b6bf3b15a6a4209309e37b3e48bd7"
           }
         ],
         "current": {
-          "score": 7.1,
-          "date": "2025-05-27T18:25:05Z",
-          "commit": "f7272ad9265b6bf3b15a6a4209309e37b3e48bd7"
+          "score": 7,
+          "date": "2025-06-30T19:37:14Z",
+          "commit": "c98d592af426c9c65ea464a2f1f3cf1d7d1c8d68"
         }
       },
       "generator-gruntfile": {
@@ -81,11 +86,16 @@
             "score": 6.7,
             "date": "2025-04-29T07:27:58Z",
             "commit": "f8612dd151aeefa15c7825328b3615c2863300de"
+          },
+          {
+            "score": 6.5,
+            "date": "2025-05-27T07:28:19Z",
+            "commit": "f8612dd151aeefa15c7825328b3615c2863300de"
           }
         ],
         "current": {
-          "score": 6.5,
-          "date": "2025-05-27T07:28:19Z",
+          "score": 6.4,
+          "date": "2025-06-24T07:29:24Z",
           "commit": "f8612dd151aeefa15c7825328b3615c2863300de"
         }
       },
@@ -271,12 +281,17 @@
             "score": 5.5,
             "date": "2025-02-25T07:25:17Z",
             "commit": "92fa818e4c76e8ae2b61af161739ee35c5b47f17"
+          },
+          {
+            "score": 5.6,
+            "date": "2025-05-27T07:27:15Z",
+            "commit": "ebf34ed51479dd0d413e12b9253d5f05e9ff56eb"
           }
         ],
         "current": {
-          "score": 5.6,
-          "date": "2025-05-27T07:27:15Z",
-          "commit": "ebf34ed51479dd0d413e12b9253d5f05e9ff56eb"
+          "score": 5.7,
+          "date": "2025-06-30T05:33:28Z",
+          "commit": "43dca41f26d842e20214c9d7796a949931f84b9e"
         }
       },
       "generator-dummytest": {
@@ -389,11 +404,16 @@
             "score": 5.5,
             "date": "2025-04-29T07:28:07Z",
             "commit": "54ac90178bc273c45fd1f21ba6ed69f061c68792"
+          },
+          {
+            "score": 5.4,
+            "date": "2025-05-27T07:28:01Z",
+            "commit": "84b4be3760d2f013164b3e8ff8f122a273cd56ae"
           }
         ],
         "current": {
-          "score": 5.4,
-          "date": "2025-05-27T07:28:01Z",
+          "score": 4.9,
+          "date": "2025-06-24T07:28:47Z",
           "commit": "84b4be3760d2f013164b3e8ff8f122a273cd56ae"
         }
       },

@@ -261,11 +261,16 @@
             "score": 7.3,
             "date": "2025-10-28T07:26:59Z",
             "commit": "779c4d6f78ddf8d81d4fa9c5e38c0fdd04a7c120"
+          },
+          {
+            "score": 7.2,
+            "date": "2025-11-25T07:27:25Z",
+            "commit": "1f45646f0292269f427bf5fd55214af1b1479eca"
           }
         ],
         "current": {
-          "score": 7.2,
-          "date": "2025-11-25T07:27:25Z",
+          "score": 6.9,
+          "date": "2025-12-30T07:28:36Z",
           "commit": "1f45646f0292269f427bf5fd55214af1b1479eca"
         }
       },

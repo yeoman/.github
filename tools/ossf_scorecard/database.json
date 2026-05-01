@@ -234,8 +234,8 @@
           }
         ],
         "current": {
-          "score": 4.8,
-          "date": "2026-03-31T07:48:07Z",
+          "score": 4.7,
+          "date": "2026-04-28T08:03:37Z",
           "commit": "50cab1d2c0140538fa03b467176309f1f3971961"
         }
       },
@@ -306,12 +306,17 @@
             "score": 6.7,
             "date": "2026-01-27T07:29:05Z",
             "commit": "1f45646f0292269f427bf5fd55214af1b1479eca"
+          },
+          {
+            "score": 6.8,
+            "date": "2026-02-28T14:27:36Z",
+            "commit": "f36eda983b38c7c362255c7d0d20cbd833946b08"
           }
         ],
         "current": {
-          "score": 6.8,
-          "date": "2026-02-28T14:27:36Z",
-          "commit": "f36eda983b38c7c362255c7d0d20cbd833946b08"
+          "score": 6,
+          "date": "2026-04-28T08:02:00Z",
+          "commit": "2ee5e3441d99d500170be7c661d0a401ac0bb97c"
         }
       },
       "generator-bootstrap": {
@@ -400,8 +405,8 @@
         ],
         "current": {
           "score": 5.7,
-          "date": "2026-03-31T07:47:23Z",
-          "commit": "2f05ae049e005d106c0dbaec304b2d32cf89582d"
+          "date": "2026-04-29T21:24:17Z",
+          "commit": "c3fe8b4a2edd88ddc6cd36fce2370377159adf90"
         }
       },
       "generator-dummytest": {
@@ -628,9 +633,9 @@
           }
         ],
         "current": {
-          "score": 6.4,
-          "date": "2026-03-31T07:47:11Z",
-          "commit": "8b94a833082d661f5c4762eff66cccc7b0cb096f"
+          "score": 6.8,
+          "date": "2026-04-29T00:30:01Z",
+          "commit": "543e5b9270b016ecef20004d1a5a66459953cbf5"
         }
       }
     }
